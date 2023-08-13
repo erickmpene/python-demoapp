@@ -40,5 +40,5 @@ Public container image is [available on Docker Container Registry](https://hub.d
 Run in a container with:
 
 ```bash
-docker run --rm -it -p 5000:5000 ghcr.io/benc-uk/python-demoapp:latest
+docker run --rm -it -p 5000:5000 erickmpene/webapp:v3
 ```
